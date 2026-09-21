@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+
+# OS cruft
+.DS_Store
+
+# IDE
+.idea/
+
+# Local instructions
+CLAUDE.md
+
